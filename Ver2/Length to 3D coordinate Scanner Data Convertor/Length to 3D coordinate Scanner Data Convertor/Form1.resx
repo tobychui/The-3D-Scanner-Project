@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TextBox1.Text" xml:space="preserve">
+    <value>22 128 0
+39 256 0
+55 384 0
+46 512 0
+59 640 0
+38 768 0
+38 896 0
+68 1024 0
+72 1152 0
+84 1280 0
+44 1408 0
+57 1536 0
+72 1664 0
+43 1792 0
+39 1920 0
+39 2048 0
+39 128 240
+39 256 240
+35 384 240
+43 512 240
+63 640 240
+81 768 240
+54 896 240
+49 1024 240
+77 1152 240
+52 1280 240
+48 1408 240
+48 1536 240
+53 1664 240
+65 1792 240
+43 1920 240
+42 2048 240
+39 128 480
+45 256 480
+49 384 480
+40 512 480
+43 640 480
+50 768 480
+40 896 480
+39 1024 480
+38 1152 480
+47 1280 480
+101 1408 480
+39 1536 480
+35 1664 480
+40 1792 480
+50 1920 480
+40 2048 480
+36 128 720
+36 256 720
+40 384 720
+39 512 720
+39 640 720
+37 768 720
+36 896 720
+35 1024 720
+34 1152 720
+34 1280 720
+33 1408 720
+33 1536 720
+30 1664 720
+37 1792 720
+38 1920 720
+35 2048 720
+36 128 960
+36 256 960
+36 384 960
+35 512 960
+39 640 960
+37 768 960
+32 896 960
+35 1024 960
+33 1152 960
+33 1280 960
+33 1408 960
+34 1536 960
+31 1664 960
+33 1792 960
+38 1920 960
+35 2048 960
+36 128 1200
+36 256 1200
+36 384 1200
+35 512 1200
+39 640 1200
+36 768 1200
+31 896 1200
+34 1024 1200
+34 1152 1200
+33 1280 1200
+34 1408 1200
+34 1536 1200
+31 1664 1200
+37 1792 1200
+38 1920 1200
+35 2048 1200
+40 128 1440
+41 256 1440
+35 384 1440
+34 512 1440
+38 640 1440
+37 768 1440
+31 896 1440
+34 1024 1440
+34 1152 1440
+33 1280 1440
+33 1408 1440
+34 1536 1440
+36 1664 1440
+37 1792 1440
+39 1920 1440
+35 2048 1440
+35 128 1680
+40 256 1680
+36 384 1680
+35 512 1680
+39 640 1680
+37 768 1680
+31 896 1680
+34 1024 1680
+33 1152 1680
+33 1280 1680
+33 1408 1680
+34 1536 1680
+36 1664 1680
+36 1792 1680
+38 1920 1680
+35 2048 1680
+40 128 1920
+41 256 1920
+41 384 1920
+35 512 1920
+39 640 1920
+37 768 1920
+31 896 1920
+34 1024 1920
+33 1152 1920
+33 1280 1920
+33 1408 1920
+33 1536 1920
+35 1664 1920
+37 1792 1920
+35 1920 1920
+36 2048 1920
+41 128 2160
+41 256 2160
+41 384 2160
+40 512 2160
+39 640 2160
+37 768 2160
+35 896 2160
+33 1024 2160
+32 1152 2160
+33 1280 2160
+33 1408 2160
+34 1536 2160
+32 1664 2160
+37 1792 2160
+35 1920 2160
+36 2048 2160
+41 128 2400
+41 256 2400
+36 384 2400
+35 512 2400
+37 640 2400
+36 768 2400
+30 896 2400
+34 1024 2400
+33 1152 2400
+33 1280 2400
+33 1408 2400
+34 1536 2400
+32 1664 2400
+37 1792 2400
+39 1920 2400
+36 2048 2400
+40 128 2640
+40 256 2640
+41 384 2640
+35 512 2640
+39 640 2640
+37 768 2640
+31 896 2640
+38 1024 2640
+33 1152 2640
+33 1280 2640
+33 1408 2640
+34 1536 2640
+32 1664 2640
+37 1792 2640
+34 1920 2640
+40 2048 2640
+41 128 2880
+41 256 2880
+41 384 2880
+40 512 2880
+38 640 2880
+36 768 2880
+35 896 2880
+33 1024 2880
+33 1152 2880
+31 1280 2880
+32 1408 2880
+33 1536 2880
+32 1664 2880
+38 1792 2880
+35 1920 2880
+36 2048 2880
+41 128 3120
+41 256 3120
+41 384 3120
+36 512 3120
+39 640 3120
+32 768 3120
+35 896 3120
+33 1024 3120
+32 1152 3120
+31 1280 3120
+33 1408 3120
+35 1536 3120
+32 1664 3120
+38 1792 3120
+35 1920 3120
+36 2048 3120
+42 128 3360
+42 256 3360
+41 384 3360
+35 512 3360
+37 640 3360
+31 768 3360
+35 896 3360
+37 1024 3360
+32 1152 3360
+32 1280 3360
+33 1408 3360
+35 1536 3360
+32 1664 3360
+38 1792 3360
+35 1920 3360
+41 2048 3360
+41 128 3600
+41 256 3600
+40 384 3600
+35 512 3600
+39 640 3600
+36 768 3600
+34 896 3600
+33 1024 3600
+32 1152 3600
+32 1280 3600
+37 1408 3600
+35 1536 3600
+36 1664 3600
+37 1792 3600
+39 1920 3600
+40 2048 3600</value>
+  </data>
+</root>
