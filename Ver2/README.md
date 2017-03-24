@@ -1,4 +1,7 @@
 # 3D Scanner Ver 2
+
+<img src="https://raw.githubusercontent.com/tobychui/Low-Cost-3D-Sanner-Project/master/Ver2/Image.png">
+
 This version is the 1st successed version of the low cost 3D printer Project with ultrasound Sensor.
 For the tutorial to make this scanner, please visit my instructable here:
 
