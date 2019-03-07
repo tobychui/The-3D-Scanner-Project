@@ -1,0 +1,36 @@
+IMUS Laboratory License
+
+Copyright (c) 2019 All developers,  IMUS Laboratory
+Basic Permissions (Software)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with certain degree of freedom, including without limitation the rights
+to use, copy, modify, merge and/or publish. Freedom of software use not include distribute, 
+sublicense, and/or sell copies of the Software. 
+ Persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Basic Permission (Hardware)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the hardware design, prototype , products and/or associated documentation files (the 
+"Hardware"), to deal in the Harware with certain degree of freedom, including without limitation 
+the rights to use, copy, modify, merge and/or publish only for *personal use. Freedom of hardware 
+use not include distribute, sublicense, and/or sell copies of the Hardware. 
+ Persons to whom the Hardware is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Hardware, excluding special permit built by initial developers.
+* "personal use" does not include university assignment, competition or other form of non 
+commercial uses that bring benefit to the person whom furnished the hardware or design.
+
+Patent Technology
+IMUS Laboratory has the right to remove this license from the initial build (or source) of the 
+Software and Hardware. Including "Patent the Software/Hardware", "Closed Source Development" 
+and "Ownership transfer". No license of the downstream version will be affected.
+
+The user of the Software and/or Hardware cannot patent a Software/Hardware that modify from / 
+contain part of the Software and/or Hardware developed by IMUS Laboratory except in the case of 
+permission is granted. 
+
+THE SOFTWARE/HARDWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
